@@ -1,3 +1,7 @@
+### Homepage
+
+![Homepage Screenshot](https://raw.githubusercontent.com/25chris/gspdt/main/courses_page_1-04.webp)
+
 ```markdown
 # GSPDT Corporate Construction Website
 
@@ -52,17 +56,9 @@ To get a local copy up and running, follow these simple steps.
 
 Once the project is up and running, you can explore the various sections of the website. Here's a brief overview of the main pages:
 
-### Homepage
-
-![Homepage Screenshot](path/to/homepage-screenshot.png)
-
 ### Company Profile
 
-![Company Profile Screenshot](path/to/company-profile-screenshot.png)
-
-### Project Portfolio
-
-![Project Portfolio Screenshot](path/to/project-portfolio-screenshot.png)
+![Company Profile Screenshot](https://raw.githubusercontent.com/25chris/gspdt/main/courses_page_1-05.webp)
 
 ## Company Profile
 
